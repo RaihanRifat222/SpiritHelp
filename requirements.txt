@@ -1,0 +1,11 @@
+gradio
+python-dotenv
+langchain
+langchain-community
+langchain-text-splitters
+langchain-openai
+langchain-chroma
+chromadb
+pypdf
+openai
+tiktoken
